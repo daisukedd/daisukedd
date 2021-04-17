@@ -1,6 +1,9 @@
 <h1 align='center'>
   Hi there I'm Kevin Wallen
 </h1>
+<h2 align='center'>
+  Design | Hacking | :computer: Programmer
+</h2>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/kevin-wallen-190404176/">
