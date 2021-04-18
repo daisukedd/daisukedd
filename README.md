@@ -35,6 +35,6 @@
 
 <p align='center'>
   <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1050_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apple-MacBook_Air_2017-999999?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
