@@ -2,7 +2,7 @@
   Hi there :sunglasses: I'm Kevin Wallen
 </h1>
 <p align='center'>
- :art: Design :unlock: Hacking :computer: Programmer
+ 🎨 Design 🔓 Hacking 💻 Programmer
 </p>
 
 
@@ -27,4 +27,12 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align='center'>
+  💻 Workspace Spec
+</p>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </p>
