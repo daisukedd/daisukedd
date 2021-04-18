@@ -1,8 +1,8 @@
 <h1 align='center'>
-  Hi there I'm Kevin Wallen
+  :hand: Hi there :sunglasses: I'm Kevin Wallen
 </h1>
 <p align='center'>
-  Design | Hacking | :computer: Programmer
+ :art: Design | :unlock: Hacking | :computer: Programmer
 </p>
 
 
