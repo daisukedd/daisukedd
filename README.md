@@ -2,7 +2,7 @@
   :hand: Hi there :sunglasses: I'm Kevin Wallen
 </h1>
 <p align='center'>
- :art: Design | :unlock: Hacking | :computer: Programmer
+ :art: Design :unlock: Hacking :computer: Programmer
 </p>
 
 
