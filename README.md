@@ -1,27 +1,33 @@
-# Kevin Wallen
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="70" alt="Gengar" />
+  Kevin Wallen
+</h1>
 
-💻 Desenvolvedor e designer, apaixonado por tecnologia. Busco criar soluções práticas e evoluir em **web, automação e redes**.
-
----
-
-## Habilidades
-
-- **Web:** HTML, CSS, JS, WordPress  
-- **Automação:** Python, Google Sheets, vMix  
-- **Infraestrutura:** Docker, Proxmox, Tailscale  
-- **Design:** Photoshop, Illustrator  
+<p align="center">
+  <em>"Code speaks louder than words. <b>Always Be Learning.</b>"</em>
+</p>
 
 ---
 
-## Projetos
+### 👨‍💻 Desenvolvedor • Designer • Estudante de Sistemas de Informação
 
-- **CanSat SNCT22:** Sistema científico com Arduino e Python  
-- **CBLOL PredictStudio:** Previsão de resultados com Python  
-- **IA de Consulta Local:** Respostas baseadas em PDFs e Markdown (em dev)  
+Sou apaixonado por **tecnologia** e movido pelo **processo de aprendizado contínuo**.  
+Meu foco é construir soluções em **Web, Automação e Infraestrutura/Redes**, sempre transformando **desafios** em oportunidades de evolução.
 
 ---
 
-## Contato
+## ⚙️ Tech Stack & Ferramentas
 
-- [LinkedIn](https://www.linkedin.com/in/kevin-wallen-190404176/)  
-- [GitHub](https://github.com/daisukedd)
+| Categoria | Tecnologias |
+| :-- | :-- |
+| 💻 **Desenvolvimento** | JavaScript · TypeScript · Python |
+| 🐳 **Infraestrutura** | Docker · Proxmox · Tailscale |
+| 🎨 **Design** | Photoshop · Illustrator · Figma |
+
+---
+
+### 🚀 Na dúvida, reinicio o universo com sudo reboot now.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="120" alt="Gengar gif" />
+</p>
